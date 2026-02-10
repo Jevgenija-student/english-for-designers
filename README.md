@@ -27,7 +27,7 @@ I chose the letter A because it is simple and strong, but now I wanted to give i
 **Process:**  
 I started by sketching the letter A in a standard font. Then, I added rounded, inflated edges to make it look like a balloon. I used gradients of purple to create a 3D effect, with highlights and soft shadows to simulate light reflecting off the surface. Finally, I refined the contours to keep the shape clean and readable, even with the playful, bouncy style.
 
-![Drop cap letter A](img/drop-cap.png)
+![Drop cap letter A](img/letter.jpg)
 
 ---
 
