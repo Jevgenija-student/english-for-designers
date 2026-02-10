@@ -9,7 +9,7 @@ This work is created by a student of graphic design.
 ---
 
 ## Table of Contents
-- Content First
+- [Content First](#content-first)
 - First Impressions
 - Process & Iterations
 - Reflection
