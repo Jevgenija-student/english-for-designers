@@ -4,7 +4,7 @@
 This repository documents my work for the course *English for Designers*.
 The focus of the course is clear, accessible writing about design, process, and identity.
 
-This work is created by a student of visual communication design.
+This work is created by a student of graphic design.
 
 ---
 
@@ -62,12 +62,12 @@ I focused on readability, spacing, and hierarchy, while giving the initial lette
 ## First Impressions
 
 ### Handshake
-I am a design student interested in visual communication, social marketing, and identity. I focus on visual communication, illustrattion, and social media.
+Hi, I’m Jevgenija, a graphic design student living in Prague with a focus on social media content, digital design and visual communication. I speak Czech, Russian and English. 
 
 ---
 
 ### About Me
-Hi, I’m Jevgenija, a graphic design student living in Prague with a focus on social media content, digital design and visual communication. I speak Czech, Russian and English.
+I am a design student interested in visual communication, social marketing, and identity. I focus on visual communication, illustrattion, and social media.
 
 ---
 
