@@ -22,10 +22,10 @@ This work is created by a student of visual communication design.
 **Chosen letter:** A
 
 **Why I chose this letter:**  
-I chose the letter A because it is simple, strong, and visually balanced. It allowed me to focus on shape, contrast, and proportion rather than decoration.
+I chose the letter A because it is simple and strong, but now I wanted to give it a playful twist. Turning it into a 3D purple balloon adds volume, fun, and a unique character while keeping it recognizable.
 
 **Process:**  
-I created several sketches and digital versions. Some versions were too decorative and difficult to read. I decided to keep the final design clean and legible.
+I started by sketching the letter A in a standard font. Then, I added rounded, inflated edges to make it look like a balloon. I used gradients of purple to create a 3D effect, with highlights and soft shadows to simulate light reflecting off the surface. Finally, I refined the contours to keep the shape clean and readable, even with the playful, bouncy style.
 
 ![Drop cap letter A](img/drop-cap.png)
 
@@ -34,26 +34,26 @@ I created several sketches and digital versions. Some versions were too decorati
 ### Alt Text Writing
 
 **Alt text version 1:**  
-A decorative letter A designed as a drop cap with thick strokes and sharp edges.
+A 3D purple balloon letter A with soft, rounded edges and glossy highlights.
 
 **Alt text version 2:**  
-A black drop cap letter A with strong contrast and a geometric shape.
+A playful drop cap letter A shaped like a purple balloon, with light reflections creating a three-dimensional effect.
 
 **Alt text version 3 (AI-assisted, edited):**  
-A stylized drop cap letter A with bold lines and a minimal decorative structure.
+A stylized purple balloon letter A, 3D with shiny surfaces and smooth curves, resembling a party balloon.
 
 **Final alt text:**  
-A bold drop cap letter A with clean geometric lines designed for clear readability.
+A 3D purple balloon letter A with soft curves, glossy highlights, and a playful, inflated look.
 
 ---
 
 ### Type Specimen
 
 **Original text:**  
-Typography plays an important role in visual communication. It helps guide the reader, creates hierarchy, and influences how content is perceived. Good typography is not only decorative but also functional and accessible.
+Typography plays an important role in visual communication. It helps guide the reader, creates hierarchy, and influences how content is perceived. In this design, the letter A is presented as a playful 3D purple balloon, adding a fun and eye-catching element while remaining readable. Good typography is not only decorative but also functional and accessible.
 
 **Design notes:**  
-I focused on readability, spacing, and hierarchy. I used contrast between headings and body text and avoided unnecessary decoration.
+I focused on readability, spacing, and hierarchy, while giving the initial letter a playful twist. The 3D purple balloon A adds volume, highlights, and a tactile feel, creating a visual focal point without sacrificing clarity. I maintained contrast between headings and body text and avoided unnecessary decoration.
 
 ![Type specimen layout](img/type-specimen.png)
 
