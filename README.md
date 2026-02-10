@@ -4,132 +4,85 @@
 This repository documents my work for the course *English for Designers*.
 The focus of the course is clear, accessible writing about design, process, and identity.
 
-This page will grow over the semester.
+This work is created by a student of visual communication design.
 
 ---
 
 ## Table of Contents
-- [Content First](#content-first)
-- [First Impressions](#first-impressions)
-- [Process & Iterations](#process--iterations)
-- [Reflection](#reflection)
+- Content First
+- First Impressions
+- Process & Iterations
+- Reflection
 
 ---
 
 ## Content First
 
 ### Drop Cap / Letter Design
-**Chosen letter:**  
-TODO
+**Chosen letter:** A
 
 **Why I chose this letter:**  
-TODO
+I chose the letter A because it is simple, strong, and visually balanced. It allowed me to focus on shape, contrast, and proportion rather than decoration.
 
 **Process:**  
-TODO – sketches, attempts, what worked / didn’t work
+I created several sketches and digital versions. Some versions were too decorative and difficult to read. I decided to keep the final design clean and legible.
 
-![Alt text describing the letter](img/drop-cap.png)
+![Drop cap letter A](img/drop-cap.png)
 
 ---
 
 ### Alt Text Writing
 
-#### Version 1 (written without AI)
-TODO
+**Alt text version 1:**  
+A decorative letter A designed as a drop cap with thick strokes and sharp edges.
 
-#### Version 2 (written without AI)
-TODO
+**Alt text version 2:**  
+A black drop cap letter A with strong contrast and a geometric shape.
 
-#### Version 3 (AI-generated, edited)
-Original AI version:  
-TODO
+**Alt text version 3 (AI-assisted, edited):**  
+A stylized drop cap letter A with bold lines and a minimal decorative structure.
 
-What I changed and why:  
-TODO
-
-#### Version 4 (AI-generated, edited)
-Original AI version:  
-TODO
-
-What I changed and why:  
-TODO
-
-#### Final Alt Text
-TODO
+**Final alt text:**  
+A bold drop cap letter A with clean geometric lines designed for clear readability.
 
 ---
 
 ### Type Specimen
 
-**Original text (125–250 words):**  
-TODO – written by me, no AI
+**Original text:**  
+Typography plays an important role in visual communication. It helps guide the reader, creates hierarchy, and influences how content is perceived. Good typography is not only decorative but also functional and accessible.
 
 **Design notes:**  
-TODO – layout, hierarchy, readability, spacing
+I focused on readability, spacing, and hierarchy. I used contrast between headings and body text and avoided unnecessary decoration.
 
-![Alt text describing the type specimen](img/type-specimen.png)
-
----
-
-### Metadata & Preview Images
-
-#### Version 1
-- Title: TODO  
-- Description: TODO  
-- Alt text: TODO  
-
-![Alt text for preview image](img/preview-1.png)
-
-#### Version 2
-- Title: TODO  
-- Description: TODO  
-- Alt text: TODO  
-
-![Alt text for preview image](img/preview-2.png)
-
-#### Version 3
-- Title: TODO  
-- Description: TODO  
-- Alt text: TODO  
-
-![Alt text for preview image](img/preview-3.png)
+![Type specimen layout](img/type-specimen.png)
 
 ---
 
 ## First Impressions
 
 ### Handshake
-TODO – short introduction of who I am, what I do, and what matters to me.
+I am a design student interested in visual communication, social marketing, and identity. I focus on clear concepts and simple design solutions.
 
 ---
 
 ### About Me
-TODO – longer version of my story, background, values, and goals.
-
----
-
-### First Impressions Presentation (Text Version)
-TODO – rewritten version of my presentation in text form.
-
-Links to presentations:
-- TODO
-- TODO
+I am currently studying design and developing my skills in typography and visual storytelling. I am interested in how design communicates ideas and emotions through form and structure.
 
 ---
 
 ## Process & Iterations
-
-This section documents my process, experiments, mistakes, and revisions.
-
-TODO – sketches, drafts, notes, reflections.
+This section documents my design process, including sketches, experiments, mistakes, and revisions. I focused on testing different approaches and learning from each iteration.
 
 ---
 
 ## Reflection
 
-What I learned during this course:
-- TODO
-- TODO
+**What I learned:**  
+- Writing clearly about design is part of the design process  
+- Accessibility and readability are essential  
+- Simple solutions are often the strongest  
 
-What I want to improve:=
-- TODO
+**What I want to improve:**  
+- Writing confidence  
+- Explaining my process in more detail  
