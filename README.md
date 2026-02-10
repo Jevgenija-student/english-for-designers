@@ -62,12 +62,12 @@ I focused on readability, spacing, and hierarchy, while giving the initial lette
 ## First Impressions
 
 ### Handshake
-I am a design student interested in visual communication, social marketing, and identity. I focus on clear concepts and simple design solutions.
+I am a design student interested in visual communication, social marketing, and identity. I focus on visual communication, illustrattion, and social media.
 
 ---
 
 ### About Me
-I am currently studying design and developing my skills in typography and visual storytelling. I am interested in how design communicates ideas and emotions through form and structure.
+Hi, I’m Jevgenija, a graphic design student living in Prague with a focus on social media content, digital design and visual communication. I speak Czech, Russian and English.
 
 ---
 
