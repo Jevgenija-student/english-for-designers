@@ -87,4 +87,6 @@ This section documents my design process, including sketches, experiments, mista
 - Writing confidence  
 - Explaining my process in more detail
 
-- ## Vas praktik
+---
+
+## Vas praktik
