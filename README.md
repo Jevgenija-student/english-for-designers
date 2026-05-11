@@ -85,4 +85,6 @@ This section documents my design process, including sketches, experiments, mista
 
 **What I want to improve:**  
 - Writing confidence  
-- Explaining my process in more detail  
+- Explaining my process in more detail
+
+- ## Vas praktik
